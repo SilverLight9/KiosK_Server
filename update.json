@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/SilverLight9/KiosK_Server/releases/download/V1.0.1/installMyPCUkiosk.exe",
-  "sha256": "34cff220ed14e7b17b83bf6fadc36cfc69622d7ceebbed302090521333d7833e",
-  "changelog": "ระบบใหม่เพื่อรองรับงานในอนาคต/"
+  "version": "1.0.0",
+  "url": "https://github.com/SilverLight9/KiosK_Server/releases/download/V1.0.0/installMyPCUkiosk.exe",
+  "sha256": "d6422269babc3569f9d863940efd3d9c1c7178dcb877bac90743d379ffa24706",
+  "changelog": "ระบบใหม่เพื่อรองรับงานในอนาคต"
 }
